@@ -1,0 +1,31 @@
+/* Gav Made This :) */
+
+body
+{
+	font-family: sans-serif;
+	background: #17151f;
+}
+
+h1
+{
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.games
+{
+    color: blue;
+}
+/* Gav Made This :) */
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3
+{
+    color: white;
+    padding-left: 10px;
+}
